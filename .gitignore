@@ -1,3 +1,5 @@
+# added DS Store for Mac Users.
+.DS_Store
 # Logs
 logs
 *.log
